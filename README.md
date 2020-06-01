@@ -24,7 +24,3 @@ For this assignment, you'll be evaluating some simple and not as simple strings 
 12. Evaluate the result of running a modulus operation of one number by another.
 13. Evaluate the result of multiplying two numbers and then adding a third.
 14. Evaluate the result of adding two numbers and THEN multiplying the result of that by a third. Parentheses will help!
-15. Evaluate the type of a number.
-16. Evaluate the type of a string.
-
-**Bonus:**  Evaluate the type of getting the type of a number.
